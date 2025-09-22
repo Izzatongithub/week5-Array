@@ -36,13 +36,13 @@ Disini saya menggunakan data 10 Mahasiswa. berikut datanya:
   
 
 ### some()
-- **Tujuan**: Mengecek apakah ada mahasiswa di ftmd.
+- **Tujuan**: Mengecek apakah ada mahasiswa di ftmd?.
 - **Hasil**:
 - <img width="393" height="52" alt="image" src="https://github.com/user-attachments/assets/302821b3-f209-43fa-b770-44faa66881eb" />
 
 
 ### every()
-- **Tujuan**: Mengecek apakah hanya mahasiswa angkatan 2023.  
+- **Tujuan**: Mengecek apakah hanya mahasiswa angkatan 2023?.  
 - **Hasil**:
 - <img width="408" height="38" alt="image" src="https://github.com/user-attachments/assets/12f0e688-3a0c-468e-bf29-2c003c28d7ec" />
   
